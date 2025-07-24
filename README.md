@@ -10,6 +10,7 @@ Average Customer Spending: ₹3,520.98 per order (Note: Avg. spending appears to
 
 Average Delivery Time: 5.53 hours
 
+
 Top Performing Products:
 Magnum Set, Guia Gift, and Dolores Gift generated the highest revenue.
 
@@ -20,10 +21,11 @@ Anniversary and Raksha Bandhan are the top occasions in terms of revenue, each a
 
 Diwali and Valentine’s Day had comparatively lower sales, indicating opportunities for promotional growth.
 
-Top Revenue Categories:
-Colors, Soft Toys, and Sweets were the best-performing categories.
+
+<img width="1572" height="784" alt="Screenshot 2025-07-24 192341" src="https://github.com/user-attachments/assets/29c79dc4-bc95-430c-8364-c003a375905b" />Colors, Soft Toys, and Sweets were the best-performing categories.
 
 Cakes and Plants had moderate performance, suggesting potential for growth through bundling or targeted marketing.
+
 
 Monthly Trends:
 August, December, and February experienced peak revenues, indicating seasonal or occasion-driven spikes.
