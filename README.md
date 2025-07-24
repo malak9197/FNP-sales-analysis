@@ -1,3 +1,4 @@
+<img width="1524" height="819" alt="Screenshot 2025-07-24 220901" src="https://github.com/user-attachments/assets/29be4c0c-e002-4cc0-8109-a30f1446b7e9" />
 # FNP-sales-analysis
 This sales analysis provides key insights into customer purchasing behavior, revenue trends, and product performance, helping inform data-driven decisions to improve operations and sales strategy.
 
