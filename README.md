@@ -23,8 +23,6 @@ Anniversary and Raksha Bandhan are the top occasions in terms of revenue, each a
 Diwali and Valentine’s Day had comparatively lower sales, indicating opportunities for promotional growth.
 
 
-<img width="1572" height="784" alt="Screenshot 2025-07-24 192341" src="https://github.com/user-attachments/assets/29c79dc4-bc95-430c-8364-c003a375905b" />Colors, Soft Toys, and Sweets were the best-performing categories.
-
 Cakes and Plants had moderate performance, suggesting potential for growth through bundling or targeted marketing.
 
 
